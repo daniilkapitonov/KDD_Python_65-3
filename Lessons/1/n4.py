@@ -13,6 +13,5 @@ for i in range(n):
     for j in range(n):
          print(matr[i][j], end =" ")   
          sum += matr[i][j]
-        
     print(", sum =", sum)
     sum = 0
