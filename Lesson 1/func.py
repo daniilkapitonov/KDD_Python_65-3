@@ -37,3 +37,4 @@ print(greet('Timur', 'Roman', 'Roman', 'Roman', 'Roman', 'Roman', 'Roman'))
 print(greet('Timur'))
 print(greet('Timur', 'Pasha'))
 print(greet('Timur', 'Pasha', 'Daniil'))
+mass = [[1,2,3],[4,5,6],[7,8,9]]
